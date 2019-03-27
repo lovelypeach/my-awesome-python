@@ -1,7 +1,5 @@
 # my-awesome-python
 
-## Contents
-
 - [ORM](#orm)
 
 ## ORM
