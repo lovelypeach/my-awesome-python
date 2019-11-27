@@ -4,11 +4,11 @@
 - [Built-in Classes Enhancement](#built-in-classes-enhancement)
 - [ORM](#orm)
 
-# binary-data
+## Binary Data
 
 - [***Construct***](https://construct.readthedocs.io/en/latest/) - Construct is a powerful declarative and symmetrical parser and builder for binary data.
 
-# built-in-classes-enhancement
+## Built-in Classes Enhancement
 
 - [***attrs***](https://www.attrs.org/en/stable/) - Python Classes Without Boilerplate.
 
