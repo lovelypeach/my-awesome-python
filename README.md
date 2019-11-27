@@ -2,6 +2,7 @@
 
 - [Binary Data](#binary-data)
 - [Built-in Classes Enhancement](#built-in-classes-enhancement)
+- [Image Processing](#image-processing)
 - [ORM](#orm)
 
 ## Binary Data
@@ -11,6 +12,10 @@
 ## Built-in Classes Enhancement
 
 - [***attrs***](https://www.attrs.org/en/stable/) - Python Classes Without Boilerplate.
+
+## Image Processing
+
+- [***Pillow***](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library).
 
 ## ORM
 
