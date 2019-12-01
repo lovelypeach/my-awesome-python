@@ -2,6 +2,7 @@
 
 - [Binary Data](#binary-data)
 - [Built-in Classes Enhancement](#built-in-classes-enhancement)
+- [Concurrency and Parallelism)(#concurrency-and-paralellism)
 - [DevOps Tools](#devops-tools)
 - [Image Processing](#image-processing)
 - [ORM](#orm)
@@ -13,6 +14,10 @@
 ## Built-in Classes Enhancement
 
 - [***attrs***](https://www.attrs.org/en/stable/) - Python Classes Without Boilerplate.
+
+## Concurrency and Parallelism
+
+- [***gevent***)(https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python.
 
 ## DevOps Tools
 
