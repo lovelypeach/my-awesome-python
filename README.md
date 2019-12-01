@@ -16,6 +16,7 @@
 
 ## DevOps Tools
 
+- [***invoke***](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [***psutil***](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python.
 
 ## Image Processing
