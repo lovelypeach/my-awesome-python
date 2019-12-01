@@ -2,6 +2,7 @@
 
 - [Binary Data](#binary-data)
 - [Built-in Classes Enhancement](#built-in-classes-enhancement)
+- [DevOps Tools)(#devops-tools)
 - [Image Processing](#image-processing)
 - [ORM](#orm)
 
@@ -12,6 +13,10 @@
 ## Built-in Classes Enhancement
 
 - [***attrs***](https://www.attrs.org/en/stable/) - Python Classes Without Boilerplate.
+
+## DevOps Tools
+
+- [***psutil***](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python.
 
 ## Image Processing
 
