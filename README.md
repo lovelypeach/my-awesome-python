@@ -17,7 +17,7 @@
 
 ## Concurrency and Parallelism
 
-- [***gevent***)(https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python.
+- [***gevent***](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python.
 
 ## DevOps Tools
 
