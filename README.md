@@ -4,6 +4,7 @@
 - [Binary Data](#binary-data)
 - [Built-in Classes Enhancement](#built-in-classes-enhancement)
 - [Concurrency and Parallelism](#concurrency-and-parallelism)
+- [Database Drivers](#database-drivers)
 - [DevOps Tools](#devops-tools)
 - [Image Processing](#image-processing)
 - [ORM](#orm)
@@ -23,6 +24,10 @@
 ## Concurrency and Parallelism
 
 - [***gevent***](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python.
+
+## Database Drivers
+
+- [***redis-py***](https://github.com/andymccurdy/redis-py) - Redis Python Client.
 
 ## DevOps Tools
 
