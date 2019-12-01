@@ -2,7 +2,7 @@
 
 - [Binary Data](#binary-data)
 - [Built-in Classes Enhancement](#built-in-classes-enhancement)
-- [Concurrency and Parallelism](#concurrency-and-paralellism)
+- [Concurrency and Parallelism](#concurrency-and-parallelism)
 - [DevOps Tools](#devops-tools)
 - [Image Processing](#image-processing)
 - [ORM](#orm)
