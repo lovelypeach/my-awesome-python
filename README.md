@@ -8,6 +8,7 @@
 - [DevOps Tools](#devops-tools)
 - [Image Processing](#image-processing)
 - [ORM](#orm)
+- [Text Formats Processing](#text-formats-processing)
 - [XML](#xml)
 - [YAML](#yaml)
 
@@ -44,10 +45,8 @@
 
 - [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
 
-## XML
+## Text Formats Processing
 
 - [***defusedxml***](https://github.com/tiran/defusedxml) - XML bomb protection for Python stdlib modules.
-
-## YAML
-
 - [***PyYAML***](https://pyyaml.org/wiki/PyYAML) - PyYAML is a YAML parser and emitter for Python.
+- [***Tablib***](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML.
