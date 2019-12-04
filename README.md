@@ -4,6 +4,7 @@
 - [Binary Data](#binary-data)
 - [Built-in Classes Enhancement](#built-in-classes-enhancement)
 - [Concurrency and Parallelism](#concurrency-and-parallelism)
+- [Data Analysis](#data-analysis)
 - [Database Drivers](#database-drivers)
 - [DevOps Tools](#devops-tools)
 - [Image Processing](#image-processing)
@@ -25,6 +26,10 @@
 ## Concurrency and Parallelism
 
 - [***gevent***](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python.
+
+## Data Analysis
+
+- [***pandas***](https://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
 ## Database Drivers
 
