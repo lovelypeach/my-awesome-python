@@ -9,6 +9,7 @@
 - [Image Processing](#image-processing)
 - [ORM](#orm)
 - [XML](#xml)
+- [YAML](#yaml)
 
 ## Asynchonous Programming
 
@@ -46,3 +47,7 @@
 ## XML
 
 - [***defusedxml***](https://github.com/tiran/defusedxml) - XML bomb protection for Python stdlib modules.
+
+## YAML
+
+- [***PyYAML***](https://pyyaml.org/wiki/PyYAML) - PyYAML is a YAML parser and emitter for Python.
