@@ -8,6 +8,7 @@
 - [DevOps Tools](#devops-tools)
 - [Image Processing](#image-processing)
 - [ORM](#orm)
+- [XML](#xml)
 
 ## Asynchonous Programming
 
@@ -40,4 +41,8 @@
 
 ## ORM
 
-* [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
+- [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
+
+## XML
+
+- [***defusedxml***](https://github.com/tiran/defusedxml) - XML bomb protection for Python stdlib modules.
