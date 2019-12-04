@@ -9,8 +9,6 @@
 - [Image Processing](#image-processing)
 - [ORM](#orm)
 - [Text Formats Processing](#text-formats-processing)
-- [XML](#xml)
-- [YAML](#yaml)
 
 ## Asynchonous Programming
 
