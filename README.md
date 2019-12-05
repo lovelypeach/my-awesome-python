@@ -18,6 +18,7 @@
 ## Binary Data
 
 - [***Construct***](https://construct.readthedocs.io/en/latest/) - Construct is a powerful declarative and symmetrical parser and builder for binary data.
+- [***TileDB-Py***](https://github.com/TileDB-Inc/TileDB-Py) - Python interface to the TileDB storage manager.
 
 ## Built-in Classes Enhancement
 
