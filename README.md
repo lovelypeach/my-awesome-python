@@ -34,6 +34,7 @@
 
 ## Database Drivers
 
+- [***psycopg2***](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language.
 - [***redis-py***](https://github.com/andymccurdy/redis-py) - Redis Python Client.
 
 ## DevOps Tools
