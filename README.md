@@ -54,6 +54,7 @@
 
 ## Network
 
+- [***PyZMQ***](https://github.com/zeromq/pyzmq) - Python bindings for zeromq.
 - [***Scapy***](https://github.com/secdev/scapy) - The Python-based interactive packet manipulation program & library.
 
 ## ORM
