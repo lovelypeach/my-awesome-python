@@ -9,6 +9,7 @@
 - [Database Drivers](#database-drivers)
 - [DevOps Tools](#devops-tools)
 - [Image Processing](#image-processing)
+- [Network](#network)
 - [ORM](#orm)
 - [Text Formats Processing](#text-formats-processing)
 
@@ -50,6 +51,10 @@
 ## Image Processing
 
 - [***Pillow***](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library).
+
+## Network
+
+- [***Scapy***](https://github.com/secdev/scapy) - The Python-based interactive packet manipulation program & library.
 
 ## ORM
 
