@@ -8,6 +8,7 @@
 - [Data Analysis](#data-analysis)
 - [Database Drivers](#database-drivers)
 - [DevOps Tools](#devops-tools)
+- [Distributed Computing](#distributed-computing)
 - [Image Processing](#image-processing)
 - [Network](#network)
 - [ORM](#orm)
@@ -48,6 +49,10 @@
 
 - [***invoke***](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [***psutil***](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python.
+
+## Distributed Computing
+
+- [***Dask***](https://github.com/dask/dask) - Parallel computing with task scheduling.
 
 ## Image Processing
 
