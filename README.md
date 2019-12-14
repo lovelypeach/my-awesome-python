@@ -64,6 +64,7 @@
 
 ## RPC
 
+- [***grpcio***](https://grpc.io/) - A high performance, open-source universal RPC framework.
 - [***jsonrpcclient***](https://github.com/bcb/jsonrpcclient) - Send JSON-RPC requests in Python.
 - [***jsonrpcserver***](https://github.com/bcb/jsonrpcserver) - Process JSON-RPC requests in Python.
 - [***MessagePack RPC for Python***](https://github.com/msgpack-rpc/msgpack-rpc-python) - MessagePack RPC implementation for Python.
