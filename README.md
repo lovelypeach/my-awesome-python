@@ -56,6 +56,7 @@
 
 - [***jsonrpcclient***](https://github.com/bcb/jsonrpcclient) - Send JSON-RPC requests in Python.
 - [***jsonrpcserver***](https://github.com/bcb/jsonrpcserver) - Process JSON-RPC requests in Python.
+- [***MessagePack RPC for Python***](https://github.com/msgpack-rpc/msgpack-rpc-python) - MessagePack RPC implementation for Python.
 - [***PyZMQ***](https://github.com/zeromq/pyzmq) - Python bindings for zeromq.
 - [***Scapy***](https://github.com/secdev/scapy) - The Python-based interactive packet manipulation program & library.
 
