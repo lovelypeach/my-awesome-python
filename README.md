@@ -1,11 +1,16 @@
 # my-awesome-python
 
 - [Code Analysis and Linter](#code-analysis-and-linter)
+- [Date and Time](#date-and-time)
 - [Documentation](#documentation)
 
 ## Code Analysis and Linter
 
 - [Flake8](https://pypi.org/project/pep8/) - The modular source code checker: pep8, pyflakes and co.
+
+## Date and Time
+
+- [dateutil](https://github.com/dateutil/dateutil) - Extensions to the standard Python datetime module.
 
 ## Documentation
 
