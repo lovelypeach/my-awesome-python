@@ -4,4 +4,4 @@
 
 ## Code Analysis and Linter
 
-- [pep8](https://pypi.org/project/pep8/) - Python style guide checker.
+- [Flake8](https://pypi.org/project/pep8/) - The modular source code checker: pep8, pyflakes and co.
