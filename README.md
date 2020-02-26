@@ -1,13 +1,9 @@
 # my-awesome-python
 
-- [Building Tools](#building-tools)
 - [Code Analysis and Linter](#code-analysis-and-linter)
 - [Date and Time](#date-and-time)
+- [Distributing Tools](#distributing-tools)
 - [Documentation](#documentation)
-
-## Building Tools
-
-- [setuptools](https://pypi.org/project/setuptools/) - Easily download, build, install, upgrade, and uninstall Python packages.
 
 ## Code Analysis and Linter
 
@@ -17,6 +13,10 @@
 
 - [dateutil](https://github.com/dateutil/dateutil) - Extensions to the standard Python datetime module.
 - [iso8601](https://pypi.org/project/iso8601/) - Simple module to parse ISO 8601 dates.
+
+## Distributing Tools
+
+- [setuptools](https://pypi.org/project/setuptools/) - Easily download, build, install, upgrade, and uninstall Python packages.
 
 ## Documentation
 
