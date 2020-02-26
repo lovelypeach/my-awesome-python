@@ -11,6 +11,7 @@
 ## Date and Time
 
 - [dateutil](https://github.com/dateutil/dateutil) - Extensions to the standard Python datetime module.
+- [iso8601](https://pypi.org/project/iso8601/) - Simple module to parse ISO 8601 dates.
 
 ## Documentation
 
