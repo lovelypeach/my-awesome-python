@@ -16,6 +16,7 @@
 
 ## Distributing Tools
 
+- [pbr](https://pypi.org/project/pbr/) - Python Build Reasonableness.
 - [setuptools](https://pypi.org/project/setuptools/) - Easily download, build, install, upgrade, and uninstall Python packages.
 
 ## Documentation
