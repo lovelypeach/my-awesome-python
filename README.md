@@ -1,8 +1,13 @@
 # my-awesome-python
 
+- [Building Tools](#building-tools)
 - [Code Analysis and Linter](#code-analysis-and-linter)
 - [Date and Time](#date-and-time)
 - [Documentation](#documentation)
+
+## Building Tools
+
+- [setuptools](https://pypi.org/project/setuptools/) - Easily download, build, install, upgrade, and uninstall Python packages.
 
 ## Code Analysis and Linter
 
