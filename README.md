@@ -4,6 +4,7 @@
 - [Date and Time](#date-and-time)
 - [Documentation](#documentation)
 - [Package Management](#package-management)
+- [Testing](#testing)
 
 ## Code Analysis and Linter
 
@@ -25,3 +26,6 @@
 - [setuptools](https://pypi.org/project/setuptools/) - Easily download, build, install, upgrade, and uninstall Python packages.
 - [wheel](https://pythonwheels.com/) - The new standard of Python distribution and are intended to replace eggs.
 
+## Testing
+
+- [pytest](http://pytest.org/latest/) - A mature full-featured Python testing tool.
