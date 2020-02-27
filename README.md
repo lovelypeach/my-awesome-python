@@ -28,5 +28,6 @@
 
 ## Testing
 
+- [coverage](https://python.libhunt.com/coveragepy-alternatives) - Code coverage measurement.
 - [pytest](http://pytest.org/latest/) - A mature full-featured Python testing tool.
 - [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
