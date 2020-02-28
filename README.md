@@ -3,6 +3,7 @@
 - [Code Analysis and Linter](#code-analysis-and-linter)
 - [Date and Time](#date-and-time)
 - [Documentation](#documentation)
+- [Functional Programming](#functional-programming)
 - [Package Management](#package-management)
 - [Testing](#testing)
 
@@ -19,6 +20,10 @@
 
 - [debtcollector](https://pypi.org/project/debtcollector/) - A collection of Python deprecation patterns and strategies that help you collect your technical debt in a non-destructive manner.
 - [Sphinx](https://www.sphinx-doc.org/en/master/) - Python Documentation generator.
+
+## Functional Programming
+
+- [first](https://github.com/hynek/first/) - The function you always missed in Python: return the first true value of an iterable.
 
 ## Package Management
 
