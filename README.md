@@ -1,11 +1,16 @@
 # my-awesome-python
 
+- [Compatibility](#compatibility)
 - [Code Analysis and Linter](#code-analysis-and-linter)
 - [Date and Time](#date-and-time)
 - [Documentation](#documentation)
 - [Functional Programming](#functional-programming)
 - [Package Management](#package-management)
 - [Testing](#testing)
+
+## Compatibility
+
+- [six](https://pypi.org/project/six/) - Python 2 and 3 compatibility utilities.
 
 ## Code Analysis and Linter
 
