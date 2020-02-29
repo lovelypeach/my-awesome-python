@@ -14,7 +14,7 @@
 
 ## Code Analysis and Linter
 
-- [Flake8](https://pypi.org/project/pep8/) - The modular source code checker: pep8, pyflakes and co.
+- [Flake8](https://pypi.org/project/flake8/) - The modular source code checker: pep8, pyflakes and co.
 
 ## Date and Time
 
