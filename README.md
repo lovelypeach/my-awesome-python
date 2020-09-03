@@ -44,7 +44,7 @@
 
 ## Scraping
 
-- [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) - Beautiful Soup is a library that makes it easy to scrape information from web pages.
+- [***beautifulsoup4***](https://pypi.org/project/beautifulsoup4/) - Beautiful Soup is a library that makes it easy to scrape information from web pages.
 
 ## Testing
 
