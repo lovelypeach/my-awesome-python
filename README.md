@@ -5,7 +5,9 @@
 - [Date and Time](#date-and-time)
 - [Documentation](#documentation)
 - [Functional Programming](#functional-programming)
+- [HTTP](#http)
 - [Package Management](#package-management)
+- [Scraping](#scraping)
 - [Testing](#testing)
 
 ## Compatibility
@@ -30,11 +32,19 @@
 
 - [first](https://github.com/hynek/first/) - The function you always missed in Python: return the first true value of an iterable.
 
+## HTTP
+
+- [***requests***](https://github.com/psf/requests) - Requests is a simple, yet elegant HTTP library.
+
 ## Package Management
 
 - [pbr](https://pypi.org/project/pbr/) - Python Build Reasonableness.
 - [setuptools](https://pypi.org/project/setuptools/) - Easily download, build, install, upgrade, and uninstall Python packages.
 - [wheel](https://pythonwheels.com/) - The new standard of Python distribution and are intended to replace eggs.
+
+## Scraping
+
+- [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) - Beautiful Soup is a library that makes it easy to scrape information from web pages.
 
 ## Testing
 
